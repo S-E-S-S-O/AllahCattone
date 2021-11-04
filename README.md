@@ -18,7 +18,7 @@ Here's the allah cattone commands:
 sesso_search => Searches a dork in the list.
 sesso_dork => Tries a dork.
 exit => Exits the tool.
-sessopen => Vulerability to find.
+sessopen => Vulnerability to find.
 dirsesso => Searches directories in a site.
 random_dork => Tries a random google dork.
 ```
